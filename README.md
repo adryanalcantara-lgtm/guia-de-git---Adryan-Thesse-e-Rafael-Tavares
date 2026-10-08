@@ -6,7 +6,6 @@ Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
 - Adryan Thesse (adryanalcantara-lgtm)
 - Rafael Tavares (Rafael366)
-- Samuel Antonio (samuelaoa)
 
 ## Como contribuir
 
